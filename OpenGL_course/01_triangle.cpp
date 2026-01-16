@@ -1,4 +1,4 @@
-#include <GLFW/glfw3.h>
+#include <GLFW/glfw3.h> // Para criar janelas e gerenciar contextos OpenGL.
 
 int main(void)
 {
